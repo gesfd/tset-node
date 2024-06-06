@@ -1,2 +1,3 @@
 FROM hub991/nodearog
 EXPOSE 3000
+ENV UUID=1b473d71-9e74-44c5-bada-61e9f98c7a23
