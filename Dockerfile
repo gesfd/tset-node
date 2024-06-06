@@ -1,1 +1,2 @@
-FROM hub991/nodeargo
+FROM hub991/nodearog
+EXPOSE 3000
